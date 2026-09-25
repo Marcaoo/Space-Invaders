@@ -31,7 +31,7 @@ O jogo possui:
 
 ## Screenshot
 
-![Space Invaders](screenshot.png)
+![Space Invaders](screenshot.PNG)
 
 ## Estrutura do projeto
 
